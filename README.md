@@ -31,8 +31,6 @@ ML-Project/
 │   ├── index.html           # Main page
 │   ├── about.html           # About Us page
 │   ├── contact.html         # Contact Us page
-│   ├── developer.html       # Developer Info page
-│   ├── blog.html            # Blog page
 ├── main.py                  # Main Flask application
 └── README.md                # Project documentation
 ```
