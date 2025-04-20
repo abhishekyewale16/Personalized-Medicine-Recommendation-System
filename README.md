@@ -1,6 +1,6 @@
-# Health Care Advisory System
+# Personalised Medicine Recommendation System
 
-The **Health Care Advisory System** is a Flask-based web application designed to provide health-related insights and recommendations based on user-input symptoms. It leverages machine learning models and datasets to predict potential diseases and offers suggestions for precautions, medications, diets, and workouts.
+The **Personalised Medicine Recommendation System** is a Flask-based web application that provides health-related insights and recommendations based on user-input symptoms. It leverages machine learning models and datasets to predict potential diseases and offers suggestions for precautions, medications, diets, and workouts.
 
 ---
 
