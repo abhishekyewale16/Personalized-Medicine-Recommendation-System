@@ -115,7 +115,6 @@ The application uses the following datasets:
 - **Libraries**:
   - `numpy`
   - `pandas`
-  - `rapidfuzz`
-  - `pickle`
+ 
 
 ---
