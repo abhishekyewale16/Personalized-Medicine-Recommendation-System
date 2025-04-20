@@ -72,8 +72,7 @@ ML-Project/
    - `/` - Home page for symptom input and predictions.
    - `/about` - About Us page.
    - `/contact` - Contact Us page.
-   - `/developer` - Developer Info page.
-   - `/blog` - Blog page.
+  
 
 ---
 
