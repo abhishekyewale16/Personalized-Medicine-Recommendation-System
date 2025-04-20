@@ -92,8 +92,7 @@ ML-Project/
 - **`index.html`**: Main page for symptom input and displaying results.
 - **`about.html`**: About Us page.
 - **`contact.html`**: Contact Us page.
-- **`developer.html`**: Developer Info page.
-- **`blog.html`**: Blog page.
+
 
 ---
 
